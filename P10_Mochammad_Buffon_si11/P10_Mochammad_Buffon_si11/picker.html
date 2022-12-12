@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>image picker</title>
+    <style>
+        img {
+            margin-top: 20ox;
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <select id="pilih" onchange="gambar()">
+            <option value="hidden">--pilih--</option>
+            <option value="elang" id="elang">elang</option>
+            <option value="gorila" id="gorila">gorila</option>
+            <option value="singa" id="singa">singa</option>
+        </select>
+        <br>
+        <img id="gambar">
+    </div>
+
+    <script>
+
+        let elang = document.getElementById("elang");
+        let gorila = document.getElementById("gorila");
+        let singa = document.getElementById("singa");
+        let pilih = document.getElementById("pilih");
+        let img = document.getElementById("gambar")
+
+        function gambar() {
+            if (pilih.value == elang.value) {
+                img.setAttribute("src","https://tse3.mm.bing.net/th?id=OIP.0CA8DapiyYYN8KDRqLMETQHaHa&pid=Api&P=0");
+                alert("ini gambar elang");
+            } else if (pilih.value == gorila.value) {
+                img.setAttribute("src","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/N'Tami%2C_Western_Gorilla.jpg/1200px-N'Tami%2C_Western_Gorilla.jpg");
+                alert("ini gambar gorila");
+            } else if (pilih.value == singa.value) {
+                img.setAttribute("src","https://cdn.idntimes.com/content-images/post/20190131/1-fineartamerica-com-87c5ef64abc364a9fa31d68fc7d71fc7.jpg");
+                alert("ini gambar singa");
+            } else {
+                alert("salah pilih gambar");
+            }  
+        }
+    </script>
+</body>
+</html>
