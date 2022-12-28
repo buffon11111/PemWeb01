@@ -1,0 +1,32 @@
+body{
+    background-color:  white;
+}
+#header{
+    padding-bottom: 20px;
+    background-color: wheat;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.pres{
+    background-color: yellow;
+    border: 1px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin: 0 auto;
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline;
+}
+.gambar{
+    text-align: center;
+}
+.bold{
+    font-size: 50px;
+    color: blue;
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<fieldset style="background-color: #a6a392;">
+  <legend>14-F Directory Profile Page</legend>
+  <table style="background-color:whitesmoke ">
+    <tbody>
+      <tr>
+        <td>
+          <img src="foto4/santikapoto.jpeg" alt="" width="200px" height="200px">
+        </td>
+        <td>
+          <h2>profile name</h2>
+          Rajwa Faiza Rahmati
+          <br>
+          Amuntai,29 juli 2004
+          <br>
+          Islam
+          <br>
+          Bojong depok baru CE/08 Kedung waringin, Bojong gede
+          <br>
+          Bogor ,Jawabarat
+          <br>
+          nomor hp: 081289834383
+          <br>
+           email: <a href="email">rjwfaiza.29@gmail.com</a>
+        </td>
+        <td  align ="right " style="width: 500 px; float: left; ">
+          <a href="">Categories</a>
+          <br>
+          <a href="">home</a>
+          <br>
+          <a href="">profile name</a>
+          <br>
+          <a href="">Contact person</a>
+          <br>
+          <a href="" > album</a>
+      </tr>
+    </tbody>
+  </table>
+  <article>
+    <section>
+      <p>    perkenalkan nama saya santika sintia larasati , biasa di panggil santika atau sintia ,usia saya sekarang 20 tahun ,saya mahasiswa aktif sekolah terpadu nurul fikri ,prodi sistem informasi ,saya tinggal di depok pride, cita cita saya ingin menjadi ceo profisional yang mempunyai perusahaa yang ada di mana mana. saya anak kedua dari 5 bersaudara ,saya mempunyai 1 seorang kakak perempuan dan 3 orang adik laki laki </p>
+    </section>
+    <section>
+      <p>    saya mempunyai hobi berjualan dan saya sangat sekali suka dengan uang,tetapi untuk mencari uang sangat lah tidak mudah ,kesibukan saya saat ini terkadang mengikuti kegiatan kerelawanan ,kata keluarga saya saya adalah orang yang boros hehe, tapi saya juga berfikir bagaimana caranya mendapatkan uang supaya kehedonan saya ini bisa di tutupi ,tapi saya mebcari uang dengan cara halal ko ,jadi semangat cari uang supaya tidak merepotkan orang tua yang sudah semakin tua </p>
+    </section>
+  </article>
+  <footer>
+    <fieldset style="width: 400px; float: left;">
+      <iframe src="foto4/sintia vidio.mp4" frameborder="1" width="200px" height="200px"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.974914361473!2d106.82981114987062!3d-6.397234164325418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ebe8c24a94c3%3A0xe3fbd3ec1bfc3b6d!2sJl.%20Kp.%20Melati%2C%20Mekar%20Jaya%2C%20Kec.%20Sukmajaya%2C%20Kota%20Depok%2C%20Jawa%20Barat%2016411!5e0!3m2!1sid!2sid!4v1666192335646!5m2!1sid!2sid" width="200px" height="200px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="200px"></iframe>
+    </fieldset>
+    <fieldset style="width: 270 px; float: left;">
+      <table>
+        <tr>
+        <th>
+          <img src="foto4/WhatsApp Image 2022-10-19 at 17.17.24.jpeg" alt=""width="200px "height="200px">
+        </th>
+        <td> <img src="foto4/WhatsApp Image 2022-10-19 at 17.17.25.jpeg" alt="" widht="200px" height="200px">
+        </td>
+      </tr>
+      <tr>
+        <th> 
+          <img src="foto4/WhatsApp Image 2022-10-19 at 17.17.26.jpeg" alt=""width = " 200px"height="200px">
+        </th>
+        <td><img src="foto4/WhatsApp Image 2022-10-19 at 17.17.27.jpeg" alt="" width="200px"height="200px"></td>
+
+      </tr>
+      </table>
+
+      </fieldset>
+      
+    <fieldset style="width: 400px; height: 410px ; float: left;">
+      <legend>link Download file </legend>
+    <nav>
+      <br>
+      <a href="https://drive.google.com/file/d/1UqeM5dfUSN9k_VJTiETM39XU6_lyFNqq/view?usp=sharing" alt="pdf" width="17"> Downaload file</a><br>
+      <a href="https://drive.google.com/file/d/1iwcGUAhhBcQrPAcuvsV8Ls6SyZ9mD44e/view?usp=sharing" alt="pdf" width="17"> Download file</a><br>
+      <a href="https://drive.google.com/file/d/1QY_-l2XooP_OytiEaDppcqe-o8OpRZ6V/view?usp=sharing" alt="pdf" width="17"> Download file </a><br>  
+    </nav>
+    </fieldset>
+  </footer>
+</fieldset>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>praktikum 11.1</title>
+    <script>
+        let fruits = ["Apel", "Mangga", "Jeruk", "durian", "musangking"];
+        console.log(fruits[1]);
+        for (let i = 0; i < fruits.length; i++) {
+            console.log(fruits[i]);
+        }
+
+        fruits.push("pisang", "kesemek"); // untuk menambahkan data array
+        fruits.sort(); // untuk menambahkan data array A - Z
+        fruits.pop(); // untuk menghapus data paling akhir
+        console.log("");
+
+        for (let i = 0; i < fruits.length; i++) {
+            console.log(fruits[i]);
+        }
+
+        let mobil = {
+            tipe : "Turismo", 
+            merk : "lambo",
+            tahun : 2022,
+            warna : "ungu",
+            jalan : function () {
+                console.log("ngengg...");
+            },
+        };
+        console.log(mobil.tipe);
+    </script>
+</head>
+<body>
+    <h1>Belajar Array</h1>
+</body>
+</html>
